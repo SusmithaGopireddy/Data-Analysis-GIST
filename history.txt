@@ -1,0 +1,60 @@
+    1  pwd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  mkdir GIST
+    6  ls
+    7  cd GIST
+    8  pwd
+    9  cd..
+   10  pwd
+   11  cd ..
+   12  pwd
+   13  cd e:
+   14  pwd
+   15  cd d:
+   16  pwd
+   17  cd c:
+   18  cd C:/Users/dell/Desktop/Susmitha-484
+   19  pwd
+   20  echo "Hello"
+   21  echo "1..100"
+   22  echo {1..100}
+   23  echo {1..1000]
+   24  echo {1..1000}
+   25  touch file{1..100}.txt
+   26  touch python{20..50}.py
+   27  touch python{20..50}.cpp
+   28  pwd
+   29  ls
+   30  rmdir GIST
+   31  ls
+   32  rm demo.txt
+   33  ls
+   34  rm file{1..10}.txt
+   35  ls
+   36  rm file{50..100}.txt
+   37  ls
+   38  rm clanguage{50..100}.cpp
+   39  ls
+   40  rm *.txt
+   41  ls
+   42  rm *.py
+   43  ls
+   44  nano myfile.txt
+   45  cat myfile.txt
+   46  nano myfile.txt
+   47  cat myfile.txt
+   48  echo "Hello" >>myfile2.txt
+   49  cat myfile2.txt
+   50  echo {1..1000} >> myfile3.txt
+   51  cat myfile3.txt
+   52  mv myfile3.txt myfile2.txt
+   53  cat myfile2.txt
+   54  ls
+   55  cp myfile2.txt myfile.txt
+   56  cat myfile.txt
+   57  ls
+   58  cat myfile2.txt
+   59  history
+   60  history >>history.txt
